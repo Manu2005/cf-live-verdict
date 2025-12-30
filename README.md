@@ -99,7 +99,7 @@ This provides a useful approximation, not an exact official number.
 1. Clone the repository:
 
    git clone https://github.com/Manu2005/cf-live-verdict.git
-   Or Just download the folder and extract it on your pc
+   Or Just download the folder as zip and extract it on your pc
 
 3. Open Chrome Extensions page:
 
