@@ -98,7 +98,7 @@ This provides a useful approximation, not an exact official number.
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR_USERNAME/cf-live-verdict.git
+   git clone https://github.com/Manu2005/cf-live-verdict.git
 
 2. Open Chrome Extensions page:
 
