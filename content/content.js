@@ -1,5 +1,5 @@
 // =======================
-// CF Live Verdict + Global Queue (CONTEST ONLY + POLISHED UI)
+// CF Live Verdict 
 // =======================
 
 (() => {
@@ -92,7 +92,7 @@
     toggleBtn.style.justifyContent = "center";
     toggleBtn.style.fontSize = "18px";
     toggleBtn.style.fontWeight = "600";
-    toggleBtn.style.lineHeight = "22px"; // perfect centering
+    toggleBtn.style.lineHeight = "22px"; 
     toggleBtn.style.cursor = "pointer";
     toggleBtn.style.flexShrink = "0";
     toggleBtn.style.boxShadow = "0 1px 3px rgba(0,0,0,0.35)";
