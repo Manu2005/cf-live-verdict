@@ -99,16 +99,17 @@ This provides a useful approximation, not an exact official number.
 1. Clone the repository:
 
    git clone https://github.com/Manu2005/cf-live-verdict.git
+   Or Just download the folder and extract it on your pc
 
-2. Open Chrome Extensions page:
+3. Open Chrome Extensions page:
 
    chrome://extensions
 
-3. Enable Developer Mode (top right)
+4. Enable Developer Mode (top right)
 
-4. Click "Load unpacked" and select the cloned folder
+5. Click "Load unpacked" and select the cloned folder
 
-5. Open any Codeforces contest page and submit a solution
+6. Open any Codeforces contest page and submit a solution
 
 ---
 
