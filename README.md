@@ -94,7 +94,7 @@ This provides a useful approximation, not an exact official number.
 
 ---
 
-## Installation (For Testing)
+## Installation 
 
 1. Clone the repository:
 
