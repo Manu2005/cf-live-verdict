@@ -33,12 +33,15 @@ All without interfering with the Codeforces website itself.
 ---
 
 ## Features
+<img width="971" height="328" alt="second" src="https://github.com/user-attachments/assets/1914fc2c-ceda-468d-b770-a6a2e9690c34" />
 
 ### Live Verdict Tracking
 
 - Automatically updates verdicts:
   IN QUEUE -> TESTING -> OK / WA / TLE / RE
 - No page refresh required
+- 
+<img width="1281" height="478" alt="one" src="https://github.com/user-attachments/assets/a7d22f1e-2eab-4d90-b7f3-d44c75655734" />
 
 ### Global Contest Queue Estimation
 
